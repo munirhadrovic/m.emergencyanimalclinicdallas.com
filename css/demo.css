@@ -75,7 +75,7 @@ a{
 }
 .container > header{
 	padding: 30px 30px 10px 20px;
-	margin: 0px 20px 10px 20px;
+	margin: px 20px 10px 20px;
 	position: relative;
 	display: block;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
@@ -87,9 +87,10 @@ a{
 	line-height: 35px;
 	position: relative;
 	font-weight: 400;
-	color: #fff;
+	color: #ff3536;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
     padding: 0px 0px 5px 0px;
+
 }
 .container > header h1 span{
 
@@ -141,7 +142,7 @@ p.codrops-demos a,
 p.codrops-demos a.current-demo,
 p.codrops-demos a.current-demo:hover{
     display: inline-block;
-	border: 1px solid #ffffff;
+	border: 4px solid #4f4fff;
 	padding: 11px 10px 11px;
 	font-size: 36px;
 	line-height: 18px;
@@ -154,20 +155,20 @@ p.codrops-demos a.current-demo:hover{
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	background: #a90329;
+	background: #4f7ca9;
 	background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019));
 	background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
 	background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
 	background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
 	background: linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%);
-	background:rgba(38, 37, 33, 0.27);
+	background: rgba(255, 48, 71, 0.100);
 }
 p.codrops-demos a:hover{
 	background:#007919;
 }
 p.codrops-demos a:active{
-	background: #6d0019;
+	background: #266a6d;
 	background: -moz-linear-gradient(top, #6d0019 0%, #8f0222 56%, #a90329 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6d0019), color-stop(56%,#8f0222), color-stop(100%,#a90329));
 	background: -webkit-linear-gradient(top, #6d0019 0%,#8f0222 56%,#a90329 100%);
